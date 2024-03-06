@@ -93,13 +93,13 @@ nav {
 
 .nav-items-container a {
     text-decoration: none;
+    padding: 10px;
 }
 
 .nav-items-container>a:hover {
     color: #534C64;
     cursor: pointer;
     box-shadow: 2px 2px 5px #534C64;
-    padding: 15px 20px;
     border-radius: 40px;
 }
 
